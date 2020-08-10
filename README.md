@@ -3,14 +3,14 @@ KudumbaPadam means "Family Movie" in Tamil
 
 
 ## What is it?
-***
+
 KudumbaPadam is a Tamil movie review website and also my first attempt in web programming. However unlike, other movie review websites its purpose is not to rate the quality of movies. KudumbaPadam rates qualities of a movie such as violence and positive values. This allows users to determine whether their kids can watch the movie with them.
 
 Think of commonsensemedia.org but for tamil movies!
 
 
 ## Stack Used
-***
+
 ### **Frontend**  
 ReactJS & Material UI
 ### **Backend**
@@ -20,10 +20,12 @@ MongoDB Atlas & Mongoose (Azure CosmosDB was used previously)
 ### **Authentication**
 JSON Web-Tokens (JWT) was used to authenticate HTTP requests 
 
+> **DBConnect.js**, the file that allows connnection to MongoDB is **not** pushed into this git repo to protect database credentials
+
 
 ## How does it work?
-***
-KudumbaPadam consists of three pages, **Home**, **Volunteer** & **Admin**
+
+KudumbaPadam consists of three pages, **Home**, **Volunteer** & **Admin**. The contents of each page is listed below.
 
 ### Home
 This is the page that most users will see. They can search for a movie and get violence factor, positive values, & recommended minimum age to watch in a neatly assembled card.
