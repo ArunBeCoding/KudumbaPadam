@@ -1,0 +1,16 @@
+.TableView {
+	display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+    border-color: black;
+}
+
+.TableView ul {
+	list-style: none;
+    padding-top: 20px;
+}
+    
+.TableView li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
