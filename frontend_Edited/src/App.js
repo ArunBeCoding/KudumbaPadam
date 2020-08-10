@@ -27,7 +27,7 @@ class App extends React.Component {
       <div className={type}>
         <div className="Header">
           <p><h1>KudumbaPadam</h1><h1><i>{type}</i></h1></p>
-          <NavLink className="NavLink" to="/">Users</NavLink>
+          <NavLink className="NavLink" to="/">Home</NavLink>
           <NavLink className="NavLink" to="/volunteer">Volunteers</NavLink>
           <NavLink className="NavLink" to="/admin">Admin</NavLink>
         </div>
