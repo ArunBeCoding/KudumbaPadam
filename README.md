@@ -28,16 +28,16 @@ KudumbaPadam consists of three pages, **Home**, **Volunteer** & **Admin**
 ### Home
 This is the page that most users will see. They can search for a movie and get violence factor, positive values, & recommended minimum age to watch in a neatly assembled card.
 
-![Picture of Home Page](ReadMePics\KudumbaPadam-home.png)
+![Picture of Home Page](https://github.com/ArunBeCoding/KudumbaPadam/blob/master/ReadMePics/KudumbaPadam-home.png)
 
 ### Volunteer
 This will be used by volunteers who have a **volunteer account** and thus is able to review new movies. All the movies pending reviews will be shown in a nice list, from which they can choose and then review it in the popup shown. Upon their review, the movie will be removed from **pending list**
 
-![Picture of volunteer login page](ReadMePics\KudumbaPadam-vol-login.png)
+![Picture of volunteer login page](https://github.com/ArunBeCoding/KudumbaPadam/blob/master/ReadMePics/KudumbaPadam-vol-login.png)
 
-![Picture of volunteer page](ReadMePics\KudumaPadam-vol-list.png)
+![Picture of volunteer page](https://github.com/ArunBeCoding/KudumbaPadam/blob/master/ReadMePics/KudumaPadam-vol-list.png)
 
-![Picture of movie review form](ReadMePics\KudumbaPadam-vol-form.png)
+![Picture of movie review form](https://github.com/ArunBeCoding/KudumbaPadam/blob/master/ReadMePics/KudumbaPadam-vol-form.png)
 
 ### Admin
 This is to be used by **me** or anyone else I would like to make an Admin. This comes with a whole lot of features: 
@@ -52,4 +52,4 @@ This is to be used by **me** or anyone else I would like to make an Admin. This 
 - Finally, an Admin is the only one with permission to **register a new volunteer**
 
 *The following picture is a full page screenshot of admin page*
-![Picture of Admin page](ReadMePics\KudumbaPadam-admin.png)
+![Picture of Admin page](https://github.com/ArunBeCoding/KudumbaPadam/blob/master/ReadMePics/KudumbaPadam-admin.png)
